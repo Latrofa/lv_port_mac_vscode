@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/ffmpeg/include",
+                "/opt/homebrew/opt/sdl2/include",
+                "/opt/homebrew/include",
+                "/opt/homebrew/opt/libjpeg-turbo/include"
+            ],
+            "defines": [
+                "LV_USE_FFMPEG=1"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "macos-clang-arm64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
