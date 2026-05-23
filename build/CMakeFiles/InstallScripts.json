@@ -1,8 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/tom/dev/lv_port_mac_vscode/build/cmake_install.cmake",
-		"/Users/tom/dev/lv_port_mac_vscode/build/lvgl/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
